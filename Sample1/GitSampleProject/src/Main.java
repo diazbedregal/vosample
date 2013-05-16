@@ -12,11 +12,14 @@ public class Main {
 	}
 
 
+	public static void addedByWS1() {
+		System.out.println("this method was added by Workspace 1");
+
+	}
+	
 	public static void addedByWS2() {
 		System.out.println("this method was added by Workspace 2");
 
 	}
-	
-	
 	
 }
